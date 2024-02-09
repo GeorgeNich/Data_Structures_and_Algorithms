@@ -13,7 +13,6 @@ Efficiency in code execution depends on the choice of algorithms, especially as 
 ### Questions
 
 1. **Operation Counting**: For each of the six example algorithms provided in the table, answers were provided for sub-questions related to best, worst, and average cases, as well as Big-O, Big-Ω, and Big-𝛩 notations.
-   - [Algorithm Complexity Solutions](./Algorithm_Complexity_Solutions.md)
 
 2. **Asymptotic Notation Discussion**: A discussion on why Big-O is more commonly used than Big-𝛩.
 
