@@ -5,7 +5,7 @@ This repository contains the implementation of a doubly linked list in C#. The d
 
 ## Implementation Details
 
-### [DoublyLinkedList Class](Doublylinkedlists/DoublyLinkedList.cs)
+### [DoublyLinkedList Class](doublylinkedlists/DoublyLinkedList.cs)
 
 The `DoublyLinkedList<T>` class represents a doubly linked list with nodes containing elements of type `T`. It includes methods for adding, removing, finding, and manipulating nodes within the list.
 
