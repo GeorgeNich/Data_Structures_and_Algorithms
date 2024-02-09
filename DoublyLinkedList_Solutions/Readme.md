@@ -5,7 +5,7 @@ This repository contains the implementation of a doubly linked list in C#. The d
 
 ## Implementation Details
 
-### [DoublyLinkedList Class](./DoublyLinkedList_Solutions/Doublylinkedlists/DoublyLinkedList.cs)
+### [DoublyLinkedList Class](Doublylinkedlists/DoublyLinkedList.cs)
 
 The `DoublyLinkedList<T>` class represents a doubly linked list with nodes containing elements of type `T`. It includes methods for adding, removing, finding, and manipulating nodes within the list.
 
@@ -25,18 +25,18 @@ The `DoublyLinkedList<T>` class represents a doubly linked list with nodes conta
 - `RemoveLast()`: Removes the last node from the list.
 - `Clear()`: Removes all nodes from the list.
 
-### [INode Interface](./DoublyLinkedList_Solutions/Doublylinkedlists/INode.cs)
+### [INode Interface](Doublylinkedlists/INode.cs)
 
 The `INode<T>` interface represents a node in the doubly linked list. It includes a property to get or set the value of the node.
 
 ## Usage
 
 1. Download the source code and open it in Microsoft Visual Studio.
-2. Compile and run the [Tester](./DoublyLinkedList_Solutions/Doublylinkedlists/Tester.cs) class to perform a sequence of tests on the `DoublyLinkedList<T>` implementation.
+2. Compile and run the [Tester](Doublylinkedlists/Tester.cs) class to perform a sequence of tests on the `DoublyLinkedList<T>` implementation.
 
 ## Testing
 
-The [Tester](./DoublyLinkedList_Solutions/Doublylinkedlists/Tester.cs) class provides a set of tests to validate the correctness of each operation in the `DoublyLinkedList<T>` class. Ensure that all tests pass successfully before submission.
+The [Tester](Doublylinkedlists/Tester.cs) class provides a set of tests to validate the correctness of each operation in the `DoublyLinkedList<T>` class. Ensure that all tests pass successfully before submission.
 
 ## Notes
 
@@ -45,7 +45,7 @@ The [Tester](./DoublyLinkedList_Solutions/Doublylinkedlists/Tester.cs) class pro
 
 ## Example
 
-![Example](./Doublylinkedlists/Doublylinkedlistscompletedsuccessfulexample.png)
+![Example](Doublylinkedlistscompletedsuccessfulexample.png)
 
 Refer to the image above for an example of the doubly linked list's correct state after running the provided tests.
 
