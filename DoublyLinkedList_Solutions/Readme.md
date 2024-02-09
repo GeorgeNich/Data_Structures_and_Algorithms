@@ -25,18 +25,18 @@ The `DoublyLinkedList<T>` class represents a doubly linked list with nodes conta
 - `RemoveLast()`: Removes the last node from the list.
 - `Clear()`: Removes all nodes from the list.
 
-### [INode Interface](Doublylinkedlists/INode.cs)
+### [INode Interface](doublylinkedlists/INode.cs)
 
 The `INode<T>` interface represents a node in the doubly linked list. It includes a property to get or set the value of the node.
 
 ## Usage
 
 1. Download the source code and open it in Microsoft Visual Studio.
-2. Compile and run the [Tester](Doublylinkedlists/Tester.cs) class to perform a sequence of tests on the `DoublyLinkedList<T>` implementation.
+2. Compile and run the [Tester](doublylinkedlists/Tester.cs) class to perform a sequence of tests on the `DoublyLinkedList<T>` implementation.
 
 ## Testing
 
-The [Tester](Doublylinkedlists/Tester.cs) class provides a set of tests to validate the correctness of each operation in the `DoublyLinkedList<T>` class. Ensure that all tests pass successfully before submission.
+The [Tester](doublylinkedlists/Tester.cs) class provides a set of tests to validate the correctness of each operation in the `DoublyLinkedList<T>` class. Ensure that all tests pass successfully before submission.
 
 ## Notes
 
