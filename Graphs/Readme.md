@@ -10,7 +10,7 @@ In this task, the focus is on processing Graphs, and it involves answering a ser
 
 ### 1. Running Time of Depth-First Search Algorithm
 
-Given a graph 𝐺 ൌ 〈𝑉, 𝐸〉, what is the running time of the depth-first search algorithm, as a function of the number of nodes 𝑛 ൌ |𝑉| and edges 𝑚 ൌ |𝐸|, if the input graph is represented by an adjacency matrix instead of an adjacency list?
+Given a graph, what is the running time of the depth-first search algorithm, as a function of the number of nodes and edges, if the input graph is represented by an adjacency matrix instead of an adjacency list?
 
 ### 2. Choosing Between Dijkstra’s and Floyd’s Algorithms
 
