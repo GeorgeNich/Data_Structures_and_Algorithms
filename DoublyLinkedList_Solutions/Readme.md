@@ -41,7 +41,6 @@ The [Tester](doublylinkedlists/Tester.cs) class provides a set of tests to valid
 ## Notes
 
 - The `DoublyLinkedList<T>` class uses two auxiliary nodes, `Head` and `Tail`, to simplify the implementation.
-- Follow the provided guidelines and explore additional resources for understanding doubly linked lists and object-oriented programming concepts.
 
 ## Example
 
