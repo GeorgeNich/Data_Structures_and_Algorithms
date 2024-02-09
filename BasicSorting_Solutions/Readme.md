@@ -1,4 +1,4 @@
-# SIT221 Data Structures and Algorithms - Basic Sorting Algorithms
+#Basic Sorting Algorithms
 
 Overview
 This repository contains the implementation of sorting algorithms (Bubble Sort, Insertion Sort, and Selection Sort) in C# for the Vector class. The Vector class is an extension of the class implemented in Task 1.1P and includes an association relationship with sorting algorithms through the ISorter interface.
