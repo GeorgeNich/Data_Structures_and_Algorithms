@@ -42,5 +42,9 @@ The `Tester` class provides a set of test cases to validate the correctness of e
 - Follow the provided guidelines and explore additional resources for understanding sorting algorithms and object-oriented programming concepts.
 
 ## Appendix A - Example Printout
-Refer to Appendix A for an example printout demonstrating the correct logic of the program.
 
+![Example Printout](BasicSortingtestscompletedresource.png)
+
+Refer to the image above for an example printout demonstrating the correct logic of the program.
+
+---
