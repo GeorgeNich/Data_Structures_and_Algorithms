@@ -31,20 +31,48 @@ The `INode<T>` interface represents a node in the doubly linked list. It include
 
 ### [Tester](doublylinkedlists/Tester.cs)
 
-## Usage
+The `Tester` class serves as a testing module for the `DoublyLinkedList<T>` implementation. It contains a series of tests to validate the correctness of each operation in the `DoublyLinkedList<T>` class.
+
+#### **Test Cases**
+
+1. **Creating a New List:**
+   - Creates a new instance of the `DoublyLinkedList<T>` class and verifies its initial state.
+
+2. **Adding Elements to the List:**
+   - Adds a sequence of integers to the list using the `AddLast(T value)` method.
+
+3. **Removing Elements from the End:**
+   - Removes the last four elements from the list using the `RemoveLast()` method.
+
+4. **Adding Elements to the Beginning:**
+   - Adds a sequence of integers to the beginning of the list using the `AddFirst(T value)` method.
+
+5. **Removing Elements from the Beginning:**
+   - Removes the first three elements from the list using the `RemoveFirst()` method.
+
+6. **Finding Nodes by Value:**
+   - Searches for nodes with specific values in the list using the `Find(T value)` method.
+
+7. **Adding Nodes Before and After:**
+   - Adds nodes with new values before and after an existing node in the list using the `AddBefore(INode<T> before, T value)` and `AddAfter(INode<T> after, T value)` methods.
+
+8. **Removing Nodes:**
+   - Removes specific nodes from the list using the `Remove(INode<T> node)` method.
+
+9. **Clearing the List:**
+   - Clears all nodes from the list using the `Clear()` method.
+
+10. **Handling Edge Cases:**
+    - Tests edge cases, such as attempting to remove nodes from an empty list and clearing an already empty list.
+
+#### **Usage**
 
 1. Download the source code and open it in Microsoft Visual Studio.
-2. Compile and run the [Tester](doublylinkedlists/Tester.cs) class to perform a sequence of tests on the `DoublyLinkedList<T>` implementation.
+2. Compile and run the `Tester` class to execute the defined test cases.
 
-## Testing
+#### **Notes**
 
-The [Tester](doublylinkedlists/Tester.cs) class provides a set of tests to validate the correctness of each operation in the `DoublyLinkedList<T>` class. Ensure that all tests pass successfully before submission.
-
-## Notes
-
-- The `DoublyLinkedList<T>` class uses two auxiliary nodes, `Head` and `Tail`, to simplify the implementation.
-
-## Example
+- The `Tester` class provides a comprehensive set of tests to ensure the robustness of the `DoublyLinkedList<T>` implementation.
 
 ![Example](Doublylinkedlistscompletedsuccessfulexample.png)
 
