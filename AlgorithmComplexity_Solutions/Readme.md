@@ -13,6 +13,7 @@ Efficiency in code execution depends on the choice of algorithms, especially as 
 ### Questions
 
 1. **Operation Counting**: For each of the six example algorithms provided in the table, answers were provided for sub-questions related to best, worst, and average cases, as well as Big-O, Big-Ω, and Big-𝛩 notations.
+   - [Algorithm Complexity Solutions](./Algorithm_Complexity_Solutions.md)
 
 2. **Asymptotic Notation Discussion**: A discussion on why Big-O is more commonly used than Big-𝛩.
 
@@ -20,7 +21,7 @@ Efficiency in code execution depends on the choice of algorithms, especially as 
 
 4. **True or False Statements**: Answers to whether certain statements related to algorithm complexity are right or wrong.
 
-### Further Notes
+### Files
 
-- The attached Asymptotic Cheat Sheet may be useful to clarify mathematical notation.
-- Refer to chapters 4.1-4.3 of the course book "Data Structures and Algorithms in Java" by Michael T. Goodrich, Irvine Roberto Tamassia, and Michael H. Goldwasser for in-depth exploration.
+- [Algorithm Complexity Problems (PDF)](./2.1_Algorithm_Complexity_Problems.pdf)
+- [Algorithm Complexity Solutions (PDF)](./2.1_Algorithm_Complexity_Solution.pdf)
