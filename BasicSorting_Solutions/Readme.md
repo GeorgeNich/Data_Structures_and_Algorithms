@@ -48,6 +48,6 @@ The Tester class provides a set of test cases to validate the correctness of eac
 
 ## Appendix A - Example Printout
 
-![Example Printout](./BasicSorting_Solutions/BasicSortingtestscompletedresource.png)
+![Example Printout](BasicSortingtestscompletedresource.png)
 
 Refer to the image above for an example printout demonstrating the correct logic of the program.
