@@ -1,4 +1,4 @@
-# Data Structures and Algorithms
+# Vectors
 
 This repository contains solutions for the Vector Practical Task in the SIT221 Data Structures and Algorithms course (Trimester 1, 2021) at Deakin University.
 
