@@ -53,4 +53,3 @@ The Tester class provides a set of test cases to validate the correctness of eac
 
 - The Vector class includes a DefaultSorter class for handling default sorting using Array.Sort.
 - Follow the provided guidelines and explore additional resources for understanding sorting algorithms and object-oriented programming concepts.
-- 
