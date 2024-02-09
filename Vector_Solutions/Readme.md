@@ -13,7 +13,7 @@ The Vector Practical Task focuses on implementing a generic vector data structur
   - [Readme.md](./1.1PVector/Readme.md): Instructions and details about the vector implementation.
 
 ### Source Code
-
+- [1.1PVector.csproj](./1.1PVector/1.1PVector.csproj): C# project file.
 - [program.cs](./1.1PVector/program.cs): Contains a testing program for the `Vector<T>` class.
 - [vector.cs](./1.1PVector/vector.cs): Implementation of the generic `Vector<T>` class.
 
@@ -23,6 +23,7 @@ To run the provided test program:
 
 1. Open the solution file `1.1PVector.sln` in Visual Studio.
 2. Build and run the solution.
+incase of potential dependacny issues you are welcome to make your own visual studio project and copy and paste the code which should take care of any issues regarding it running
 
 The program will execute a series of tests on the `Vector<T>` class, checking various operations like adding, removing, inserting, and more.
 
@@ -47,7 +48,7 @@ Feel free to explore the source code for more details on each method.
 
 ## Author
 
-- [Your Name]
+- George Nicholson
 
 ---
 
