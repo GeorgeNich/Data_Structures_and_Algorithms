@@ -22,14 +22,16 @@ The Vector Practical Task focuses on implementing a generic vector data structur
 To run the provided test program:
 
 1. Open the solution file `1.1PVector.sln` in Visual Studio.
-2. Build and run the solution.
-incase of potential dependacny issues you are welcome to make your own visual studio project and copy and paste the code which should take care of any issues regarding it running
+2. Build and run the solution. In case of potential dependency issues, you are welcome to create your own Visual Studio project and copy-paste the code, which should take care of any issues regarding execution.
+
+![Vector Tests](VectorTestsSuccessfullyCompleted.png)
 
 The program will execute a series of tests on the `Vector<T>` class, checking various operations like adding, removing, inserting, and more.
 
 ## Test Summary
 
 After running the program, a summary will be displayed, indicating the success or failure of each test. Ensure that all tests pass successfully.
+
 
 ## Vector<T> Class
 
