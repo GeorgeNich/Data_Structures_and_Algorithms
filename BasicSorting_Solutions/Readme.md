@@ -37,6 +37,14 @@ The interface includes support for a custom comparer to allow different sorting 
 2. Compile and test the code.
 3. Use the Tester class to validate the correctness of the implemented sorting algorithms.
 
+![Vector Tests](BasicSortingtestscompletedresource.png)
+
+The program will execute a series of tests on the `Vector<T>` class, checking various operations like adding, removing, inserting, and more.
+
+## Test Summary
+
+After running the program, a summary will be displayed, indicating the success or failure of each test. Ensure that all tests pass successfully.
+
 ## Testing
 
 The Tester class provides a set of test cases to validate the correctness of each sorting algorithm. Ensure that the program prints "SUCCESS" for all tests before submission.
@@ -45,9 +53,4 @@ The Tester class provides a set of test cases to validate the correctness of eac
 
 - The Vector class includes a DefaultSorter class for handling default sorting using Array.Sort.
 - Follow the provided guidelines and explore additional resources for understanding sorting algorithms and object-oriented programming concepts.
-
-## Appendix A - Example Printout
-
-![Example Printout](BasicSortingtestscompletedresource.png)
-
-Refer to the image above for an example printout demonstrating the correct logic of the program.
+- 
