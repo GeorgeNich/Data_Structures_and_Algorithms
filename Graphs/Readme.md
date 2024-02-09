@@ -1,4 +1,4 @@
-# SIT221 Data Structures and Algorithms - Graphs
+# Graphs
 
 This repository contains solutions for Practical Task 9.1 (Pass Task) in the SIT221 Data Structures and Algorithms course (Trimester 1, 2021) at Deakin University.
 
