@@ -29,6 +29,8 @@ The `DoublyLinkedList<T>` class represents a doubly linked list with nodes conta
 
 The `INode<T>` interface represents a node in the doubly linked list. It includes a property to get or set the value of the node.
 
+### [Tester](doublylinkedlists/Tester.cs)
+
 ## Usage
 
 1. Download the source code and open it in Microsoft Visual Studio.
