@@ -49,7 +49,10 @@ After running the program, a summary will be displayed, indicating the success o
 
 The Tester class provides a set of test cases to validate the correctness of each sorting algorithm. Ensure that the program prints "SUCCESS" for all tests before submission.
 
-## Notes
+## Author
 
-- The Vector class includes a DefaultSorter class for handling default sorting using Array.Sort.
-- Follow the provided guidelines and explore additional resources for understanding sorting algorithms and object-oriented programming concepts.
+- George Nicholson
+
+---
+
+**Note:** This repository is part of the academic coursework. Use the code responsibly and avoid academic misconduct.
