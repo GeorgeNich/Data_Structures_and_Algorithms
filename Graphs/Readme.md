@@ -14,8 +14,7 @@ Given a graph 𝐺 ൌ 〈𝑉, 𝐸〉, what is the running time of the depth-f
 
 ### 2. Choosing Between Dijkstra’s and Floyd’s Algorithms
 
-Your colleague is looking for advice on choosing between Dijkstra’s algorithm (𝑂ሺ𝑉 ൅ 𝐸 𝑙𝑜𝑔 𝑉ሻ) and Floyd’s algorithm (𝑂ሺ𝑉ଷሻ, where |𝐸| ൑ |𝑉|
-ଶ) for finding the shortest path. Discuss the factors to consider and under what circumstances your colleague should choose one algorithm over the other.
+Discuss the factors to consider and under what circumstances your colleague should choose one algorithm over the other.
 
 ### 3. Drawing Search Trees
 
