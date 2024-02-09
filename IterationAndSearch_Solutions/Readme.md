@@ -1,6 +1,4 @@
-# Data Structures and Algorithms
-
-## Iteration and Search
+# Iteration and Search
 
 ### Overview
 This repository contains C# implementations for iteration and search algorithms. The primary class, `Vector<T>`, provides functionality for working with a dynamic array, including methods for sorting, binary search, and more.
