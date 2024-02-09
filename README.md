@@ -27,7 +27,8 @@ Versatile Vector data structure implementations with a focus on dynamic arrays. 
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE).
+This repository is released under the [Unlicense](https://unlicense.org/). You can find the full text of the Unlicense in the [LICENSE](LICENSE) file.
+
 
 ## Professional Background
 
